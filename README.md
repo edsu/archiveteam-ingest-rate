@@ -1,5 +1,9 @@
 # ArchiveTeam Ingest Rate
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5548129.svg)](https://doi.org/10.5281/zenodo.5548129)
+
+
 This Jupyter notebook examines the ingest rate for the [ArchiveTeam collection]
 at the Internet Archive. It uses the [Internet Archive API] to search for all
 the items, and then retrieves the metadata for each item to count the total

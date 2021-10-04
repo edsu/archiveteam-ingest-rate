@@ -1,0 +1,17 @@
+{
+  "title": "Archiveteam Ingest Rate",
+  "upload_type": "dataset",
+  "description": "A Jupyter notebook that explores the ingest rate for ArchiveTeam collections at the Internet Archive",
+  "creators": [
+    {
+      "name": "Summers, Ed",
+      "affiliation": "University of Maryland",
+      "orcid": "0000-0001-7320-8150"
+    },
+    {
+      "name": "Jessica Ogden",
+      "affiliation": "University of Bristol",
+      "orcid": "0000-0003-4696-7340"
+    }
+  ]
+}

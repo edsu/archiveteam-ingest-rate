@@ -6,9 +6,9 @@ the items, and then retrieves the metadata for each item to count the total
 size (bytes) of each of the files. You can see the resulting data in the
 `data/archiveteam.csv` file.
 
-<a href="https://raw.githubusercontent.com/edsu/archiveteam-ingest-rate/main/images/archiveteam-ingest-rate.png"><img width="800" src="https://raw.githubusercontent.com/archiveteam-ingest-rate/hydrator/main/images/archiveteam-ingest-rate.png"></a> 
+<a href="https://raw.githubusercontent.com/edsu/archiveteam-ingest-rate/main/images/archiveteam-ingest-rate.png"><img width="800" src="https://raw.githubusercontent.com/edsu/archiveteam-ingest-rate/main/images/archiveteam-ingest-rate.png"></a> 
 
-<a href="https://raw.githubusercontent.com/edsu/archiveteam-ingest-rate/main/images/archiveteam-collections.png"><img width="800" src="https://raw.githubusercontent.com/archiveteam-ingest-rate/main/images/archiveteam-collections.png"></a>
+<a href="https://raw.githubusercontent.com/edsu/archiveteam-ingest-rate/main/images/archiveteam-collections.png"><img width="800" src="https://raw.githubusercontent.com/edsu/archiveteam-ingest-rate/main/images/archiveteam-collections.png"></a>
 
 ## Run
 
